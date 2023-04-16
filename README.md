@@ -4,7 +4,9 @@ With Nodejs and ReactJs
 
 This is	a	program	that	helps	seat	audiences	in	a	flight	based	on	the	
 following	input	and	rules.
-Rules	for	seating	
+Rules	for	seating	:
+
+
 • Always	seat	passengers	star:ng	from	the	front	row	to	back,	
 star:ng	from	the	le=	to	the	right	
 • Fill	aisle	seats	first	followed	by	window	seats	followed	by	center	
