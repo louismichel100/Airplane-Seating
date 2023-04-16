@@ -12,5 +12,7 @@ seats	(any	order	in	center	seats)
 
 To execute this, just type the example below:
 >> node miki.js 3 2 4 3 2 3 3 4 30
-# the last number represent the number	of	passengers	wai:ng	in	queue
+
+
+The last number represent the number	of	passengers	waiting	in	queue
 
